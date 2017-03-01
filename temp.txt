@@ -1,0 +1,12 @@
+"students":[
+	{
+		"firstname" : "Ronald",
+		"lastname" : "Reagan",
+		"class" : "CIDM4385"
+	},
+	{
+		"firstname" : "John",
+		"lastname" : "Thompson",
+		"class" : "CIDM4385"
+	}
+]
