@@ -11,7 +11,8 @@
 
 ##### …or create a new repository on the command line
 
-~~~echo "# student_selector" >> README.md
+~~~
+echo "# student_selector" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
